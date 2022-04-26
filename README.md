@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Sass, typescript**
 
-- 👨‍💻 All of my projects are available at [https://melvinsantanac.github.io](https://melvinsantanac.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://melvinsantanac.github.io](https://melvinsantanac.github.io) -->
 
 - 💬 Ask me about **Html, Css and Javascript**
 
